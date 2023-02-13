@@ -9,4 +9,4 @@ A smooth and beautiful UI with three different backgrounds durin the day.
 ![Screenshot_20230213-202212](https://user-images.githubusercontent.com/107408431/218553116-f3f68f56-3285-47ac-85d8-653bf1e19e7c.jpg)
 ![Screenshot_20230213-181105](https://user-images.githubusercontent.com/107408431/218553160-9536a161-fb5e-4f90-88aa-31135a1842c6.jpg)
 ![Uploading Screenshot_![Screenshot_20230213-210546](https://user-images.githubusercontent.com/107408431/218553182-b717dfc3-2a3f-43e2-aaa5-c820169a0505.jpg)
-![Screenshot_20230213-210546](https://user-images.githubusercontent.com/107408431/218553430-1f05b1e5-2481-4c66-b954-0700dd60741f.jpg)
+
